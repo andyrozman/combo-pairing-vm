@@ -94,7 +94,7 @@ Now we need to get data we gathered to our phone. There are two steps to do:
 1. add bluetooth pairing data
 2. copy ruffy configuration data
 
-How to do that is described in [Gregory Bel's solution](https://github.com/gregorybel/combo-pairing/README.md). Look for text "Connect phone 2 to PC" and follow instructions from there.
+How to do that is described in [Gregory Bel's solution](https://github.com/gregorybel/combo-pairing/blob/master/README.md). Look for text "Connect phone 2 to PC" and follow instructions from there.
 
 
 If you have any questions you can find me arround github or gitter (andyrozman)
